@@ -1,6 +1,6 @@
 # Bubble Shooter - Unity 2D
 
-¡Bienvenido a Bubble Shooter! Este es un proyecto simple en desarrollo de un juego de disparar burbujas. Este proyecto está siendo desarrollado en Unity 2D. En este juego, el objetivo es disparar burbujas de colores para hacer coincidir dos o más del mismo color y eliminarlas del tablero.
+¡Bienvenido a Bubble Shooter! Este es un proyecto simple con fines de aprendizaje, el proyecto se encuentra en desarrollo y es un juego de disparar burbujas. Este proyecto está siendo desarrollado en Unity 2D. En este juego, el objetivo es disparar burbujas de colores para hacer coincidir dos o más del mismo color y eliminarlas del tablero.
 
 ## Características
 
